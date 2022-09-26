@@ -10,6 +10,6 @@ public class HomeController {
 
 	@GetMapping("index")
 	public String index() {
-		return "Hello";
+		return "Hello from git hub";
 	}
 }
